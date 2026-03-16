@@ -18,8 +18,8 @@
   <th>冴羽 AI</th>
 </tr>
 <tr>               
-  <td><img width="15%" src="https://github.com/user-attachments/assets/000b8b3c-a617-4982-8f3d-abdf31b52b88" /></td>     
-  <td><img width="15%" src="https://github.com/user-attachments/assets/1b4b734c-e1bb-44b2-9910-79295a40fb01" /></td>
+  <td align="center"><img width="30%"  src="https://github.com/user-attachments/assets/000b8b3c-a617-4982-8f3d-abdf31b52b88" /></td>     
+  <td align="center"><img width="30%" src="https://github.com/user-attachments/assets/1b4b734c-e1bb-44b2-9910-79295a40fb01" /></td>
 </tr>
 </table>
 
