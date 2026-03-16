@@ -1,0 +1,28 @@
+# 冴羽的 AI 博客
+
+## 关于作者
+
+- 博客：[https://yayujs.com/](https://yayujs.com/)
+- 社群：[“低调务实优秀中国好青年”前端社群](https://www.yuque.com/yayu/nice-people/xou8qr)
+- 成长：[社群茶话会](https://www.yuque.com/yayu/nice-people/shares)、[我的茶话会](https://www.yuque.com/yayu/blog/grow)、[微信读书](https://yayujs.com/grow)
+- 翻译：[TypeScript 中文文档](http://ts.yayujs.com/)、[Svelte 中文文档](https://svelte.yayujs.com/)、[Solid 中文文档](https://solid.yayujs.com/)
+- 小册：[《Next.js 开发指南》](https://s.juejin.cn/ds/i8kJo2o8/)、[《Svelte 开发指南》](https://s.juejin.cn/ds/iUurdrae/)、[《Astro 开发指南》](https://juejin.cn/book/7452253924608147467)
+- 专栏：[掘金](https://juejin.cn/user/712139234359182/columns)、[思否](https://segmentfault.com/u/yayu)、[语雀](https://www.yuque.com/yayu)、公众号：[冴羽（#yayujs）](https://cdn.jsdelivr.net/gh/mqyqingfeng/picture/qrcode_for_gh_bd1a3dc9eafd_258.jpg)
+- 星球：[冴羽·前端开发者的破局之路](https://t.zsxq.com/tn3PW)，8 大专栏，10 年经验总结、100 篇深度长文，70W 字原创内容
+
+## 公众号
+
+<table>
+<tr>                
+  <th>冴羽</th>     
+  <th>冴羽 AI</th>
+</tr>
+<tr>               
+  <td><img width="15%" src="https://github.com/user-attachments/assets/000b8b3c-a617-4982-8f3d-abdf31b52b88" /></td>     
+  <td><img width="15%" src="https://github.com/user-attachments/assets/1b4b734c-e1bb-44b2-9910-79295a40fb01" /></td>
+</tr>
+</table>
+
+## OpenClaw 系列
+
+1. [OpenClaw 龙虾零成本快速安装教程，不用花钱，无须 API Key](https://github.com/mqyqingfeng/AI-Blog/issues/1)
