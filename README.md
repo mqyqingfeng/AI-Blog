@@ -26,3 +26,4 @@
 ## OpenClaw 系列
 
 1. [OpenClaw 龙虾零成本快速安装教程，不用花钱，无须 API Key](https://github.com/mqyqingfeng/AI-Blog/issues/1)
+2. [OpenClaw 接入飞书配置指南](https://github.com/mqyqingfeng/AI-Blog/issues/2)
